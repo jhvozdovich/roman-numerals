@@ -20,12 +20,11 @@ body {
   font-size: x-large;
 }
 
-.result {
+.results {
   display: none;
   margin: 40px;
   border: 5px dashed black;
   padding: 20px;
   background-color: white;
-  text-align: center;
   font-size: xx-large;
 }

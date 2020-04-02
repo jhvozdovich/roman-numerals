@@ -38,7 +38,7 @@ jQuery
 | Spec | Input | Output |
 | :------------- | :------------- | :------------- |
 | **Define numerical values of single letters** | User Input:"1" | Output: "I" |
-| **Define a function that breaks down number into divisible roman numeral components** | User Input: "20" | Output: "10 10" |
+| **Create a function that splits up the digits of the input into an array** | User Input: "20" | Output: [2, 0] |
 | **Define a rule in the function that there can be no more than three divisisible components in a row** | User Input: "40" | Output: "50 - 10" |
 | **Apply above rules to translate the numerical output into their letter values in a new function** | Function Output: "10 10" | Final Output: "XX" |
 | **Create a function that checks if the input is greater than 3999** | User Input: "4000" | Output: "Error Message" |
