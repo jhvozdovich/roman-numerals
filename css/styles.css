@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+label {
+  font-size: x-large;
+}
+
+.form-control {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  text-align: center;
+}
+
+body {
+  background-color: lavenderblush;
+  font-family: 'Indie Flower';
+  text-align: center;
+}
+
+.btn {
+  font-size: x-large;
+}
+
+.result {
+  display: none;
+  margin: 40px;
+  border: 5px dashed black;
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  font-size: xx-large;
+}
