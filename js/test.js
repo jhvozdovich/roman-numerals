@@ -1,8 +1,15 @@
 var romanArray=[];
 
+
+function isRomanNumber(number){
+    if(number < 0){
+
+    }
+}
+
 function converter(number){
   romanArray = [];
-  if (number >= 1000) {
+  if (number >= 1000) 
     return this.thousands(number);
   } else if (number >= 100) {
     return this.hundreds(number);
